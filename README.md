@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task Manager
 
 A modern, responsive to-do list web application designed to enhance productivity through intuitive task management features.
@@ -99,3 +100,6 @@ The application should now be running at `http://localhost:5000`
 ## License
 
 [MIT](LICENSE)
+=======
+# TaskMaster-PERN
+>>>>>>> 0de3052a41e4beb07e55556c1fae93107f0c8cb9
